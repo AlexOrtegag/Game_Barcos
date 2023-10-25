@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'BarquitoZGuerra'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C46EC80DE5BD474C919989DCB77699CB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A35FC1339D44F849B7D56C65B2023BD }}
           package: .
